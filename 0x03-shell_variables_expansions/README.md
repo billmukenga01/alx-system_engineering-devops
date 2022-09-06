@@ -1,0 +1,1 @@
+This project explains the alx holberton project details for the variable expansions and intitialization project.
